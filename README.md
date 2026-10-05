@@ -260,7 +260,7 @@ CAN-Based-Engine-Monitoring-and-Vehicle-Control-System/
 
 ## 👩‍💻 Author
 
-* **Oohanandan Srinivasan**
+* **Rayudu Jagan Mouli**
 * **Project**: CAN-Based Engine Monitoring and Vehicle Control System
 * **Specialization**: Embedded Systems & Automotive Electronics (ARM7 / CAN Protocol / Interrupt Drivers)
 
