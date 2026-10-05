@@ -31,6 +31,8 @@ Unlike simplistic single-board prototypes, this project implements a **true 3-no
 ## 🏛️ System Architecture & Schematic Diagram
 
 ![System Architecture Diagram]<img width="1376" height="768" alt="WhatsApp Image 2026-09-10 at 5 44 04 PM" src="https://github.com/user-attachments/assets/d9a05f88-28d7-410f-9913-7a0b3291573b" />
+<img width="1448" height="1086" alt="Block Diagram" src="https://github.com/user-attachments/assets/ec892578-8750-483f-9e32-29ccc0ba2432" />
+
 
 
 ```text
